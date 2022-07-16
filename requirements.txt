@@ -1,6 +1,4 @@
 gym
 notebook
-tensorflow
 matplotlib
-seaborn
 gym[classic_control]
